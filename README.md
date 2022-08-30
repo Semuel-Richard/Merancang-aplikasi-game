@@ -2,3 +2,4 @@
 - Membuat desain
 - membuat program
 - uji coba
+- memperbaiki kesalahan
